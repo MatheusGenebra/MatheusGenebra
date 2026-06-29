@@ -41,6 +41,7 @@ Tenho interesse em desenvolvimento de software, especialmente nas áreas de **de
 ### Estudando
 <div style="display: inline_block"><br>
   <img align="center" alt="Python" height="45" width="55" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+  <img align="center" alt="Laravel" height="45" width="55" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-original.svg">
 </div>
 
 ---
